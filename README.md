@@ -1,3 +1,4 @@
+```
 SESSION REFERENCE
 │
 ├── BEFORE YOU CODE
@@ -83,3 +84,7 @@ SESSION REFERENCE
     │   same approach fails)?      what you learned. Sunk cost kills sessions.
     └── Skills > CLAUDE.md      → Load workflows on-demand. Don't always-on load
                                    heavy context you might not need this session.
+
+
+
+```
